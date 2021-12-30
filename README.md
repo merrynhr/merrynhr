@@ -9,6 +9,8 @@ In September 2020 I left my job as an English teacher in Jakarta and decided to 
 | **[Tutoroom](https://github.com/merrynhr/tutoroom_be)**            | Final project: Online tutoring site | React front end, Rails API backend |
 | **[ANY BLOG](https://github.com/merrynhr/ANY_BLOG)**            | Blogging platform   | Rails                              |
 | **[Message Me](https://github.com/merrynhr/message_me)**            | Messaging app with real time messages   | Rails, action cabel                              |
+| **[FinTrack](https://github.com/merrynhr/fin_track)**            | Stock tracker   | Rails, IEX ruby client                            |
+
 
 
 
