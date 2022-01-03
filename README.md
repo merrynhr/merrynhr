@@ -90,7 +90,7 @@ _Model View Controller design pattern_
 - Using the MVC design pattern in Rails bettered my understanding of how code is structured across a range of popular frameworks. This enabled me to quickly and confidently make sense of new codebases, for instance when working with Laravel for Global Initiative.
 
 _Test Driven Development_
-- Makers encouraged the use of TDD to encourage DRY, well organised code, and a methodical step by step process that has helped me personally to break down my code into more manageable sections. TDD has also made the refactoring of projects easier with tests providing immediate evidence of any newly introduced bugs.
+- Makers encouraged the use of TDD to produce DRY, well organised code, and a methodical step by step process that has helped me personally to break down my code into more manageable sections. TDD has also made the refactoring of projects easier with tests providing immediate evidence of any newly introduced bugs.
 
 _Working in a high pressure environment_
 - For our final projects at Makers we had only two weeks to decide on, plan, and execute our ideas. The experience gave me the confidence necessary to teach myself new technologies and create projects with them from scratch. My teamwork and communication skills were also essential, particularly when deciding on a project that suited everyone in such a short timeframe.     
