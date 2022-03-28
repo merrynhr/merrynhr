@@ -49,7 +49,7 @@ _Work Experience as a frontend dev_
 - Finally I became more accustomed to dealing with unexpected blockers, and using my own initiative to find solutions. For example, using older Node versions with an M1 mac, required me to use Rosetta. This allowed software built for Intel processors to run on Apple silicon, and allowed me to work on older codebases without issues.  
 
 
-**Acknowledge App** (October 2021 - ongoing)
+**Acknowledge App** (October 2021 - February 2022)
 
 _React native developer_
 - Working with the Acknowledge team has provided practise debugging a relatively large codebase in a framework I hadn’t previously used. For instance I was able to identify and fix a bug related to user sign in by testing user experience on an iOS simulator.
